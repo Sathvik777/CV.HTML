@@ -1,4 +1,7 @@
 .personal-information{
+    height: 700px;
+    width: 500px;
+    display: inline-block;
 
 }
 .personal-attributes{
@@ -20,5 +23,10 @@
     
 }
 .social{
-    
+
+}
+img.profile-image {
+	max-width:100%;
+    height:auto;
+    opacity: 0.9;
 }
