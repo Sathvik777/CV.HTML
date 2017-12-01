@@ -1,7 +1,11 @@
+.hero{
+    width: 100%; 
+}
+.overlay{
+    background: rgba(248, 198, 151, 0.514);
+}
 .personal-information{
-    height: 700px;
-    width: 500px;
-    display: inline-block;
+    width: 100%;
 
 }
 .personal-attributes{
@@ -25,8 +29,16 @@
 .social{
 
 }
+div.profile-image{
+    width: 500px;
+    margin-top: -180px;
+}
 img.profile-image {
 	max-width:100%;
     height:auto;
     opacity: 0.9;
+}
+.info-list{
+    text-align: center;
+    padding-left: 500px;
 }
